@@ -2,6 +2,6 @@
 
 Steps of Execution
 
-Sending Event's through a Kafka
-persisting the data in oracle db
-Running the Request mapper to show the Moving average of the date.
+<br>Sending Event's through a Kafka consumer</br>
+<br>Persisting the data in oracle db</br>
+<br>Running the Request mapper to show the Moving average of the date.</br>
